@@ -1,0 +1,1 @@
+print("the raspberry pi is alive!")
